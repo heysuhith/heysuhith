@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heysuhith
+- 👋 Hi, I’m Suhith Vasanth
 - 👀 I’m interested in ... Tech & Automobile
-- 🌱 I’m currently learning ... 12th
+- 🌱 I’m currently learning ... UI/UX, Animation & 3D Modelling
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... All social media with username - @heysuhith
 
