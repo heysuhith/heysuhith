@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suhith Vasanth
 - 👀 I’m interested in Design, Tech & Automobile
 - 🌱 I’m currently learning ... UI/UX, Animation & 3D Modelling
-- 💞️ I’m looking to collaborate on ... UX prijects and UI 
+- 💞️ I’m looking to collaborate on ... UI/UX projects
 - 📫 How to reach me ... https://heysuhith.framer.website/
 
 <!---
